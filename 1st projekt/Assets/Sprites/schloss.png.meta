@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      schloss_0: 1778323748470833363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
